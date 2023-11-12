@@ -1,0 +1,8 @@
+﻿  Bai02.cpp
+C:\Users\MY PC\source\repos\Week_22120185\Week_22120185\Bai02.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MY PC\source\repos\Week_22120185\Week_22120185\Bai02.cpp(80,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MY PC\source\repos\Week_22120185\Week_22120185\Bai02.cpp(86,8): warning C4552: '-': result of expression not used
+C:\Users\MY PC\source\repos\Week_22120185\Week_22120185\Bai02.cpp(91,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MY PC\source\repos\Week_22120185\Week_22120185\Bai02.cpp(93,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MY PC\source\repos\Week_22120185\Week_22120185\Bai02.cpp(106,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Week_22120185.vcxproj -> C:\Users\MY PC\source\repos\Week_22120185\Debug\Week_22120185.exe
